@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://hamidrezamoghaddam.ir"><img src="https://img.shields.io/badge/Website-hamidrezamoghaddam.ir-00C266?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:h4midreza.ir@gmail.com"><img src="https://img.shields.io/badge/Email-h4midreza.ir%40gmail.com-101827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="mailto:h4midrezam@gmail.com"><img src="https://img.shields.io/badge/Email-h4midrezam%40gmail.com-101827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="https://github.com/mrhamidrezam"><img src="https://komarev.com/ghpvc/?username=mrhamidrezam&style=flat-square&color=00c266&label=VIEWS" alt="Profile Views" /></a>
 </p>
 
@@ -92,7 +92,7 @@ Instead of maintaining static project lists, my daily open-source output continu
 ### 🤝 Let's Connect
 
 Feel free to explore my full engineering portfolio and articles at **[hamidrezamoghaddam.ir](https://hamidrezamoghaddam.ir/)**  
-or reach out directly via **[h4midreza.ir@gmail.com](mailto:h4midreza.ir@gmail.com)**.
+or reach out directly via **[h4midrezam@gmail.com](mailto:h4midrezam@gmail.com)**.
 
 <sub>Crafted with passion for open-source engineering & resilience · © 2026 Hamidreza Moghaddam Kohi</sub>
 
