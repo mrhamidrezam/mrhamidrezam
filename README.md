@@ -19,7 +19,7 @@
 
 - 🚀 **Full-Stack Engineer** crafting fast, resilient, zero-dependency software
 - 🤖 Architecting **AI streaming engines**, **fault-tolerant backend primitives**, and **client-side developer studios**
-- 📦 Shipping open-source packages daily across **Python (PyPI)**, **PHP 8.2+**, and **Modern Web**
+- 📦 Shipping open-source packages daily across **Python (PyPI)**, **PHP 8.4+**, and **Modern Web**
 - 🌐 Portfolio & articles at **[hamidrezamoghaddam.ir](https://hamidrezamoghaddam.ir)** · Contact: **[h4midrezam@gmail.com](mailto:h4midrezam@gmail.com)**
 
 ## 🛠️ Tech Stack
