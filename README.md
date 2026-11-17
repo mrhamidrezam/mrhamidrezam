@@ -1,99 +1,65 @@
 <div align="center">
 
-# Hamidreza Moghaddam Kohi
-### حمیدرضا مقدم کوهی
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:0f766e,100:10b981&height=200&section=header&text=Hamidreza%20Moghaddam&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%26%20System%20Automation&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <a href="https://hamidrezamoghaddam.ir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00C266&center=true&vCenter=true&width=450&lines=Full-Stack+Engineer+%C2%B7+AI+%26+Automation;Craft+%2B+Strategy+%2B+Engineering;Shipping+resilient%2C+zero-dependency+code;Architecting+scalable%2C+autonomous+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Hamidreza+%F0%9F%91%8B;Full-Stack+Engineer+%26+System+Architect;Shipping+Zero-Dependency+Open+Source+Daily;AI+Pipelines+%C2%B7+Resilient+Backends+%C2%B7+Web+Tools" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="https://hamidrezamoghaddam.ir"><img src="https://img.shields.io/badge/Website-hamidrezamoghaddam.ir-00C266?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:h4midrezam@gmail.com"><img src="https://img.shields.io/badge/Email-h4midrezam%40gmail.com-101827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://github.com/mrhamidrezam"><img src="https://komarev.com/ghpvc/?username=mrhamidrezam&style=flat-square&color=00c266&label=VIEWS" alt="Profile Views" /></a>
-</p>
+<br/><br/>
+
+<a href="https://hamidrezamoghaddam.ir"><img src="https://img.shields.io/badge/Website-hamidrezamoghaddam.ir-10B981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website" /></a>
+<a href="mailto:h4midrezam@gmail.com"><img src="https://img.shields.io/badge/Email-h4midrezam%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+<a href="https://github.com/mrhamidrezam?tab=followers"><img src="https://img.shields.io/github/followers/mrhamidrezam?style=for-the-badge&logo=github&color=10B981&labelColor=0d1117" alt="Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=mrhamidrezam&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
 
 </div>
 
----
+## ⚡ About Me
 
-<div dir="rtl">
+- 🚀 **Full-Stack Engineer** crafting fast, resilient, zero-dependency software
+- 🤖 Architecting **AI streaming engines**, **fault-tolerant backend primitives**, and **client-side developer studios**
+- 📦 Shipping open-source packages daily across **Python (PyPI)**, **PHP 8.2+**, and **Modern Web**
+- 🌐 Portfolio & articles at **[hamidrezamoghaddam.ir](https://hamidrezamoghaddam.ir)** · Contact: **[h4midrezam@gmail.com](mailto:h4midrezam@gmail.com)**
 
-> *نکند فکر کنی در دلِ من یادِ تو نیست ...*  
-> *گوش کن، نبضِ دلم زمزمه‌اش با تو یکیست.*
-
-</div>
-
----
-
-## 🧭 Engineering Philosophy · فلسفه مهندسی
-
-I design and build software driven by **craft, strategy, and engineering** — transforming ambitious ideas into fast, resilient, and autonomous products. Rather than accumulating monolithic bloat, my work centers on three core engineering pillars:
-
-> ### 🛡️ Resilience by Design
-> Building fault-tolerant systems that absorb shocks without cascading outages. Implementing circuit breakers, exponential backoff with full jitter, bulkheads, and atomic states for high availability across distributed networks.
-
-> ### ⚙️ Pure & Zero-Dependency
-> Writing clean, type-strict software grounded in SOLID principles. Favoring standalone primitives, lightweight runtimes, and self-contained architectures that eliminate external supply-chain vulnerabilities.
-
-> ### 🤖 Autonomous AI & Pipelines
-> Architecting intelligent automation, stream parsers, client-side developer micro-tools, and LLM orchestration engines that run autonomously with zero manual intervention.
-
----
-
-## 🎯 Focus Domains · حوزه‌های تخصصی
-
-Instead of maintaining static project lists, my daily open-source output continuously expands across four strategic domains:
-
-| Domain | Focus Areas |
-| :--- | :--- |
-| **🤖 AI & Intelligent Systems** | LLM stream chunk parsers, token budgeting, prompt optimizers, and automated workflows |
-| **🛡️ Resilience & Backend** | Circuit breakers, distributed rate limiters, in-process event buses & DAG workflow engines |
-| **🌐 Modern Web & Micro-Tools** | 100% client-side zero-dependency developer utilities and responsive web platforms |
-| **📱 Messaging & Mobile** | Full-coverage messenger bot SDKs, webhooks, offline-first apps & payment integrations |
-
----
-
-## 📊 Live Activity & GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrhamidrezam&show_icons=true&theme=tokyonight&bg_color=06090e&title_color=00c266&icon_color=4cebb4&text_color=94a3b8&border_color=192338" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrhamidrezam&layout=compact&theme=tokyonight&bg_color=06090e&title_color=00c266&text_color=94a3b8&border_color=192338" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhamidrezam&theme=tokyonight&background=06090e&ring=00c266&fire=00e575&currStreakLabel=00c266&sideLabels=94a3b8&stroke=192338" alt="GitHub Streak" />
-</p>
-
----
-
-## 🛠️ Tech Stack & Tooling
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🤝 Let's Connect
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,php,js,ts,fastapi,nodejs,docker,postgres,redis,linux,git,githubactions&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,php,js,ts,fastapi,nodejs,docker,postgres,redis,linux,git,githubactions&theme=light" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,php,js,ts,fastapi,nodejs,docker,postgres,redis,linux,git,githubactions&theme=dark" />
+</picture>
 
-Feel free to explore my full engineering portfolio and articles at **[hamidrezamoghaddam.ir](https://hamidrezamoghaddam.ir/)**  
-or reach out directly via **[h4midrezam@gmail.com](mailto:h4midrezam@gmail.com)**.
+</div>
 
-<sub>Crafted with passion for open-source engineering & resilience · © 2026 Hamidreza Moghaddam Kohi</sub>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrhamidrezam/mrhamidrezam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrhamidrezam/mrhamidrezam/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mrhamidrezam/mrhamidrezam/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+## 🔥 Streak
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mrhamidrezam&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=10B981" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mrhamidrezam&theme=default&hide_border=true&ring=0F766E&fire=10B981&currStreakLabel=0F766E" />
+  <img alt="Streak stats" src="https://streak-stats.demolab.com?user=mrhamidrezam&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=10B981" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:0f766e,100:10b981&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
