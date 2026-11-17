@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Hamidreza Moghaddam" />
+<img src="https://raw.githubusercontent.com/mrhamidrezam/mrhamidrezam/main/assets/header.svg" width="100%" alt="Hamidreza Moghaddam" />
 
 <a href="https://hamidrezamoghaddam.ir">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Hamidreza+%F0%9F%91%8B;Full-Stack+Engineer+%26+System+Architect;Shipping+Zero-Dependency+Open+Source+Daily;AI+Pipelines+%C2%B7+Resilient+Backends+%C2%B7+Web+Tools" alt="Typing SVG" />
@@ -60,6 +60,6 @@
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
+<img src="https://raw.githubusercontent.com/mrhamidrezam/mrhamidrezam/main/assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
