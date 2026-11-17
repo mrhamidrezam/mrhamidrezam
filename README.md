@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:0f766e,100:10b981&height=200&section=header&text=Hamidreza%20Moghaddam&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%26%20System%20Automation&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="./assets/header.svg" width="100%" alt="Hamidreza Moghaddam" />
 
 <a href="https://hamidrezamoghaddam.ir">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Hamidreza+%F0%9F%91%8B;Full-Stack+Engineer+%26+System+Architect;Shipping+Zero-Dependency+Open+Source+Daily;AI+Pipelines+%C2%B7+Resilient+Backends+%C2%B7+Web+Tools" alt="Typing SVG" />
@@ -27,9 +27,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,php,js,ts,fastapi,nodejs,docker,postgres,redis,linux,git,githubactions&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,php,js,ts,fastapi,nodejs,docker,postgres,redis,linux,git,githubactions&theme=light" />
-  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,php,js,ts,fastapi,nodejs,docker,postgres,redis,linux,git,githubactions&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cphp%2Cjs%2Cts%2Cfastapi%2Cnodejs%2Cdocker%2Cpostgres%2Credis%2Clinux%2Cgit%2Cgithubactions&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cphp%2Cjs%2Cts%2Cfastapi%2Cnodejs%2Cdocker%2Cpostgres%2Credis%2Clinux%2Cgit%2Cgithubactions&theme=light" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py%2Cphp%2Cjs%2Cts%2Cfastapi%2Cnodejs%2Cdocker%2Cpostgres%2Credis%2Clinux%2Cgit%2Cgithubactions&theme=dark" />
 </picture>
 
 </div>
@@ -60,6 +60,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:0f766e,100:10b981&height=110&section=footer" width="100%" alt="Footer Banner" />
+<img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
